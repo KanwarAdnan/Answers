@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+faiss-cpu
+numpy
+pydantic
+python-dotenv
+openai>=1.0.0
